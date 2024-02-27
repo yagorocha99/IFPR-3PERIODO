@@ -1,4 +1,4 @@
-package ifpr.primeiroprojeto;
+package com.example.demo1;
 
 import java.io.*;
 import jakarta.servlet.http.*;
